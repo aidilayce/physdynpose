@@ -1,2 +1,3 @@
-# physdynpose
+# PhyDynPose
 Repository for the PhysDynPose method and MoviCam dataset.
+The code and the dataset will be available soon...
